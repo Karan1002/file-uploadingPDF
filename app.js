@@ -6,6 +6,8 @@ const fileRoute = require("./routes/fileRoute");
 
 const port = 5000 || process.env.PORT;
 app.use("/", fileRoute);
+app.use(express.json());
+app.use(express.urlencoded({ extended: true }));
 
 const start = async () => {
   try {
