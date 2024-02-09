@@ -1,2 +1,6 @@
 {"level":"info","message":"In a pdf node is 21 time. 1707465164727","timestamp":"2024-02-09T07:52:44.728Z"}
 {"level":"info","message":"In a pdf node is 21 time. 1707465185388","timestamp":"2024-02-09T07:53:05.389Z"}
+{"level":"info","message":"In a pdf node is 21 time.","timestamp":"2024-02-09T08:49:29.879Z"}
+{"level":"info","message":"In a pdf node is 21 time.","timestamp":"2024-02-09T09:21:53.162Z"}
+{"level":"info","message":"Word not found is 0 time.","timestamp":"2024-02-09T09:23:16.605Z"}
+{"level":"info","message":"Word not found .","timestamp":"2024-02-09T09:23:33.496Z"}
